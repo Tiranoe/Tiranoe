@@ -185,7 +185,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@email](jungwoo9543@gmail.com) - jungwoo9543@gmail.com
+John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com
 
 Project Link: [https://github.com/Tiranoe/adventureTime](https://github.com/Tiranoe/adventureTime)
 
