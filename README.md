@@ -13,7 +13,7 @@ My name is <a name="readme-top"></a>
 
 
 [![Contributors][contributors-shield]][contributors-url]
-![LinkedIn][linkedin-shield](https://www.linkedin.com/in/johnnam1/)]
+![LinkedIn][https://www.linkedin.com/in/johnnam1/]
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
