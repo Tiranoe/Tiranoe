@@ -13,7 +13,7 @@ My name is <a name="readme-top"></a>
 
 
 [![Contributors][contributors-shield]][contributors-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/johnnam1/]
+[![LinkedIn][linkedin-shield][https://www.linkedin.com/in/johnnam1/]
 
 
 <br />
