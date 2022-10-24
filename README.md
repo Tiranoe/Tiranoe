@@ -9,15 +9,11 @@ My name is <a name="readme-top"></a>
 - 💬 Ask me about ...
 - 📫 How to reach me: Email me at jungwoo9543@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: my current hobbies are biking and creating/editing youtube videos of the travel trips I make (by myself or with my friends!)
 
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/johnnam1/)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/johnnam1/]
 
 
 <br />
