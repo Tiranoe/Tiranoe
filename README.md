@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github Page!
+# Hi there 👋 Welcome to my Github Page!
 
 My name is <a name="readme-top"></a>
 
@@ -11,12 +11,14 @@ My name is <a name="readme-top"></a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my current hobbies are biking and creating/editing youtube videos of the travel trips I make (by myself or with my friends!)
 
-# Social Sites
+
+# Social Sites 💻
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- The reference links are tied to the bottom of this read.me Page -->
 
-# Tool Box
+
+# My Tool Box 🧰
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
