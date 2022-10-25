@@ -56,6 +56,7 @@ My name is <a name="readme-top"></a>
 ## Github Stats
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiranoe)](https://github.com/Tiranoe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiranoe)](https://github.com/Tiranoe/github-readme-stats)
 
 
 
@@ -96,7 +97,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 ## Other Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=adventureTime](https://github.com/Tiranoe/adventureTime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=adventureTime)](https://github.com/Tiranoe/adventureTime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Instagram-Cloning)](https://github.com/Tiranoe/Instagram-Cloning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Travel-Cities)](https://github.com/Tiranoe/Travel-Cities)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=TAMA)](https://github.com/Tiranoe/TAMA)
@@ -109,7 +110,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ## Contact
 
 John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com\
-Project Link: [https://github.com/Tiranoe/adventureTime](https://github.com/Tiranoe/adventureTime)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,4 +124,3 @@ Project Link: [https://github.com/Tiranoe/adventureTime](https://github.com/Tira
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/johnnam1/
-[product-screenshot]: images/screenshot.png
