@@ -65,7 +65,7 @@ My name is <a name="readme-top"></a>
 <br />
 <div align="center">
   <a href="https://github.com/Tiranoe/adventureTime">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://github.com/Tiranoe/adventureTime/blob/main/assets/adventuretimegif.gif?raw=true)" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">adventureTime</h3>
