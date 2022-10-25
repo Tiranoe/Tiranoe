@@ -95,12 +95,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Other Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=adventureTime](https://github.com/Tiranoe/adventureTime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Instagram-Cloning)](https://github.com/Tiranoe/Instagram-Cloning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Travel-Cities)](https://github.com/Tiranoe/Travel-Cities)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=TAMA)](https://github.com/Tiranoe/TAMA)
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 
 
@@ -112,6 +113,9 @@ Project Link: [https://github.com/Tiranoe/adventureTime](https://github.com/Tira
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+### Profile Counter
+![Profile Counter](https://komarev.com/ghpvc/?username=Tiranoe&color=green)
 
 
 
