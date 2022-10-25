@@ -55,7 +55,7 @@ My name is <a name="readme-top"></a>
 
 ## Github Stats
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiranoe)](https://github.com/Tiranoe/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiranoe&show_icons=true)](https://github.com/Tiranoe/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiranoe&layout=compact)](https://github.com/Tiranoe/github-readme-stats)
 
 
