@@ -88,10 +88,17 @@ My name is <a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+### Built with
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-This project has been created with full stack Django with python coding. 
+
+### Planning
+
+<a href="https://github.com/Tiranoe/adventureTime/tree/main/assets">Wireframes</a>
+<a href="https://github.com/Tiranoe/adventureTime">README Page</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
