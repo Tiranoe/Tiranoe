@@ -53,6 +53,12 @@ My name is <a name="readme-top"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Github Stats
+
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiranoe)](https://github.com/Tiranoe/github-readme-stats)
+
+
+
 ## My Most Recent Project
 
 <br />
