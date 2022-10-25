@@ -91,7 +91,8 @@ My name is <a name="readme-top"></a>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+This project has been created with full stack Django with python coding. 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
