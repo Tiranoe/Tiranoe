@@ -2,11 +2,11 @@
 
 My name is <a name="readme-top"></a>
 
-- 🔭 I’m currently working on getting more used to javascript and python fundamental functions.
+- 🔭 I’m currently working on getting more used to mainly Python fundamental functions and also trying to keep up with learning javascript on the side
 - 🌱 I’m currently learning and working on solving leetcode problems with focus into data and algorithms
 - 👯 I’m looking to collaborate on any of new projects that I would be interested in learning. (TBA)
-- 🤔 I’m looking for help with mentorship in java.
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with mentorship in java or any other languages!
+- 💬 Ask me about my decision to change my career to software engineering.
 - 📫 How to reach me: Email me at jungwoo9543@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: my current hobbies are biking and creating/editing youtube videos of the travel trips I make (by myself or with my friends!)
