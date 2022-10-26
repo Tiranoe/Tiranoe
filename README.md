@@ -14,7 +14,7 @@ My name is <a name="readme-top"></a>
 
 
 
-# 💻 Social Sites
+# Social Sites 💻
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- The reference links are tied to the bottom of this read.me Page -->
@@ -22,7 +22,7 @@ My name is <a name="readme-top"></a>
 
 
 
-# 🧰 My Tool Box (Tech Stack)
+# My Tool Box (Tech Stack) 🧰
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,14 +54,14 @@ My name is <a name="readme-top"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Github Stats
+## Github Stats 📊
 
 [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiranoe&show_icons=true)](https://github.com/Tiranoe/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiranoe&layout=compact)](https://github.com/Tiranoe/github-readme-stats)
 
 
 
-## My Most Recent Project
+## My Most Recent Project 📽
 
 <br />
 <div align="center">
@@ -89,7 +89,7 @@ My name is <a name="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-### Built with
+### Built with 🧱
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -98,7 +98,7 @@ My name is <a name="readme-top"></a>
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### Planning
+### Planning 
 
 <a href="https://github.com/Tiranoe/adventureTime/tree/main/assets">Wireframes</a>
 <a href="https://github.com/Tiranoe/adventureTime">README Page</a>
@@ -107,7 +107,7 @@ My name is <a name="readme-top"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## Other Projects
+## Other Projects 🏗
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=adventureTime)](https://github.com/Tiranoe/adventureTime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Instagram-Cloning)](https://github.com/Tiranoe/Instagram-Cloning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tiranoe&repo=Travel-Cities)](https://github.com/Tiranoe/Travel-Cities)
@@ -118,7 +118,7 @@ My name is <a name="readme-top"></a>
 
 
 <!-- CONTACT -->
-## Contact
+## Contact 📲
 
 John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com\
 
@@ -126,7 +126,7 @@ John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com\
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Profile Counter
+### Profile Counter 
 ![Profile Counter](https://komarev.com/ghpvc/?username=Tiranoe&color=green)
 
 
