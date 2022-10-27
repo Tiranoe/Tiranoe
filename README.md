@@ -120,7 +120,7 @@ My name is <a name="readme-top"></a>
 <!-- CONTACT -->
 ## Contact 📲
 
-John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com\
+John Nam - [email me here](jungwoo9543@gmail.com) - jungwoo9543@gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
